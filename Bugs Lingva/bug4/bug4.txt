@@ -1,0 +1,407 @@
+01:33:53.884 Navigated to https://qa.test-sites.com.ua/
+01:33:54.746 Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.
+01:33:54.746 Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.
+01:33:54.981 [Violation] Forced reflow while executing JavaScript took 134ms
+01:33:55.060 [Violation] Forced reflow while executing JavaScript took 31ms
+01:33:55.452 Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.
+01:33:56.253 www-embed-player.js:891     GET https://googleads.g.doubleclick.net/pagead/id net::ERR_BLOCKED_BY_CLIENT
+nl @ www-embed-player.js:891
+kl @ www-embed-player.js:876
+(anonymous) @ www-embed-player.js:1417
+Sd @ www-embed-player.js:323
+hs @ www-embed-player.js:1414
+yk @ www-embed-player.js:1433
+zs @ www-embed-player.js:1438
+As @ www-embed-player.js:1439
+(anonymous) @ www-embed-player.js:1825
+(anonymous) @ V2pdkeyMZFk:10
+01:33:56.254 www-embed-player.js:891 XHR failed loading: GET "https://googleads.g.doubleclick.net/pagead/id".
+nl @ www-embed-player.js:891
+kl @ www-embed-player.js:876
+(anonymous) @ www-embed-player.js:1417
+Sd @ www-embed-player.js:323
+hs @ www-embed-player.js:1414
+yk @ www-embed-player.js:1433
+zs @ www-embed-player.js:1438
+As @ www-embed-player.js:1439
+(anonymous) @ www-embed-player.js:1825
+(anonymous) @ V2pdkeyMZFk:10
+01:33:56.386 base.js:8509 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+BB.V @ base.js:8509
+g.k.V @ base.js:10140
+$S @ base.js:4468
+g.aT @ base.js:4466
+g.sV @ base.js:5040
+YSa @ base.js:5170
+g.cW @ base.js:5218
+g.dW.create @ base.js:10843
+JT @ base.js:4636
+g.UZ @ base.js:6398
+g.UZ.create @ base.js:11779
+Bw.a.P @ www-embed-player.js:1781
+Bw @ www-embed-player.js:1782
+m.loadNewVideoConfig @ www-embed-player.js:1776
+(anonymous) @ www-embed-player.js:1774
+(anonymous) @ www-embed-player.js:846
+01:33:56.386 base.js:8509 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+BB.V @ base.js:8509
+g.k.V @ base.js:10140
+$S @ base.js:4468
+g.aT @ base.js:4466
+g.sV @ base.js:5040
+YSa @ base.js:5170
+g.cW @ base.js:5218
+g.dW.create @ base.js:10843
+JT @ base.js:4636
+g.UZ @ base.js:6398
+g.UZ.create @ base.js:11779
+Bw.a.P @ www-embed-player.js:1781
+Bw @ www-embed-player.js:1782
+m.loadNewVideoConfig @ www-embed-player.js:1776
+(anonymous) @ www-embed-player.js:1774
+(anonymous) @ www-embed-player.js:846
+01:33:56.388 base.js:8509 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+BB.V @ base.js:8509
+g.k.V @ base.js:10140
+$S @ base.js:4468
+g.aT @ base.js:4466
+uSa @ base.js:5090
+g.k.updateVideoData @ base.js:10648
+g.sV @ base.js:5043
+YSa @ base.js:5170
+g.cW @ base.js:5218
+g.dW.create @ base.js:10843
+JT @ base.js:4636
+g.UZ @ base.js:6398
+g.UZ.create @ base.js:11779
+Bw.a.P @ www-embed-player.js:1781
+Bw @ www-embed-player.js:1782
+m.loadNewVideoConfig @ www-embed-player.js:1776
+(anonymous) @ www-embed-player.js:1774
+(anonymous) @ www-embed-player.js:846
+01:33:56.392 base.js:8509 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+BB.V @ base.js:8509
+g.k.V @ base.js:10140
+$S @ base.js:4468
+g.aT @ base.js:4466
+DRa @ base.js:5011
+g.sV @ base.js:5043
+YSa @ base.js:5170
+g.cW @ base.js:5218
+g.dW.create @ base.js:10843
+JT @ base.js:4636
+g.UZ @ base.js:6398
+g.UZ.create @ base.js:11779
+Bw.a.P @ www-embed-player.js:1781
+Bw @ www-embed-player.js:1782
+m.loadNewVideoConfig @ www-embed-player.js:1776
+(anonymous) @ www-embed-player.js:1774
+(anonymous) @ www-embed-player.js:846
+01:33:56.415 base.js:8509 [Violation] Added non-passive event listener to a scroll-blocking 'touchstart' event. Consider marking event handler as 'passive' to make the page more responsive. See https://www.chromestatus.com/feature/5745543795965952
+BB.V @ base.js:8509
+g.k.V @ base.js:10140
+$S @ base.js:4468
+g.aT @ base.js:4466
+WSa @ base.js:5161
+YSa @ base.js:5174
+g.cW @ base.js:5218
+g.dW.create @ base.js:10843
+JT @ base.js:4636
+g.UZ @ base.js:6398
+g.UZ.create @ base.js:11779
+Bw.a.P @ www-embed-player.js:1781
+Bw @ www-embed-player.js:1782
+m.loadNewVideoConfig @ www-embed-player.js:1776
+(anonymous) @ www-embed-player.js:1774
+(anonymous) @ www-embed-player.js:846
+01:33:56.488 www-embed-player.js:846 [Violation] 'setTimeout' handler took 235ms
+01:33:56.626 www-embed-player.js:1629     GET https://static.doubleclick.net/instream/ad_status.js net::ERR_BLOCKED_BY_CLIENT
+hv @ www-embed-player.js:1629
+ev @ www-embed-player.js:1626
+dv @ www-embed-player.js:1625
+mv @ www-embed-player.js:1634
+(anonymous) @ www-embed-player.js:1827
+(anonymous) @ V2pdkeyMZFk:10
+01:33:56.970 base.js:7839 XHR finished loading: POST "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create".
+g.k.send @ base.js:7839
+Nga @ base.js:903
+(anonymous) @ base.js:900
+(anonymous) @ base.js:900
+xm @ base.js:902
+ym.create @ base.js:7968
+(anonymous) @ base.js:7881
+Ga @ base.js:145
+next @ base.js:146
+(anonymous) @ base.js:153
+kaa @ base.js:152
+g.Ha @ base.js:154
+ul.EC @ base.js:7881
+g.k.EC @ base.js:8005
+(anonymous) @ base.js:939
+Ga @ base.js:145
+next @ base.js:146
+(anonymous) @ base.js:153
+kaa @ base.js:152
+g.Ha @ base.js:154
+dha @ base.js:939
+(anonymous) @ base.js:945
+Ga @ base.js:145
+next @ base.js:146
+(anonymous) @ base.js:153
+kaa @ base.js:152
+g.Ha @ base.js:154
+eha @ base.js:945
+g.k.start @ base.js:8008
+iOa @ base.js:4558
+(anonymous) @ base.js:4552
+YB @ base.js:2049
+g.ZB @ base.js:2044
+(anonymous) @ base.js:4552
+g.k.va @ base.js:8289
+bX.va @ base.js:11015
+g.k.va @ base.js:9893
+g.k.va @ base.js:10027
+g.UZ @ base.js:6393
+g.UZ.create @ base.js:11779
+Bw.a.P @ www-embed-player.js:1781
+Bw @ www-embed-player.js:1782
+m.loadNewVideoConfig @ www-embed-player.js:1776
+(anonymous) @ www-embed-player.js:1774
+(anonymous) @ www-embed-player.js:846
+setTimeout (async)
+dl @ www-embed-player.js:869
+xw @ www-embed-player.js:1774
+Sw @ www-embed-player.js:1815
+(anonymous) @ www-embed-player.js:1826
+(anonymous) @ V2pdkeyMZFk:10
+01:33:57.336 base.js:7839 XHR finished loading: POST "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT".
+g.k.send @ base.js:7839
+Nga @ base.js:903
+(anonymous) @ base.js:900
+(anonymous) @ base.js:900
+xm @ base.js:902
+(anonymous) @ base.js:7882
+Ga @ base.js:145
+next @ base.js:146
+(anonymous) @ base.js:153
+kaa @ base.js:152
+g.Ha @ base.js:154
+ul.gV @ base.js:7882
+(anonymous) @ base.js:940
+Ga @ base.js:145
+next @ base.js:146
+b @ base.js:150
+Promise.then (async)
+f @ base.js:152
+Promise.then (async)
+f @ base.js:152
+Promise.then (async)
+f @ base.js:152
+(anonymous) @ base.js:153
+kaa @ base.js:152
+g.Ha @ base.js:154
+dha @ base.js:939
+(anonymous) @ base.js:945
+Ga @ base.js:145
+next @ base.js:146
+(anonymous) @ base.js:153
+kaa @ base.js:152
+g.Ha @ base.js:154
+eha @ base.js:945
+g.k.start @ base.js:8008
+iOa @ base.js:4558
+(anonymous) @ base.js:4552
+YB @ base.js:2049
+g.ZB @ base.js:2044
+(anonymous) @ base.js:4552
+g.k.va @ base.js:8289
+bX.va @ base.js:11015
+g.k.va @ base.js:9893
+g.k.va @ base.js:10027
+g.UZ @ base.js:6393
+g.UZ.create @ base.js:11779
+Bw.a.P @ www-embed-player.js:1781
+Bw @ www-embed-player.js:1782
+m.loadNewVideoConfig @ www-embed-player.js:1776
+(anonymous) @ www-embed-player.js:1774
+(anonymous) @ www-embed-player.js:846
+setTimeout (async)
+dl @ www-embed-player.js:869
+xw @ www-embed-player.js:1774
+Sw @ www-embed-player.js:1815
+(anonymous) @ www-embed-player.js:1826
+(anonymous) @ V2pdkeyMZFk:10
+01:33:57.673 base.js:1879 [Violation] 'setTimeout' handler took 210ms
+01:33:58.536 www-embed-player.js:891 XHR finished loading: POST "https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8".
+nl @ www-embed-player.js:891
+kl @ www-embed-player.js:876
+Hp @ www-embed-player.js:1242
+m.sendAndWrite @ www-embed-player.js:1147
+Gp.sendAndWrite @ www-embed-player.js:1237
+e @ www-embed-player.js:1252
+(anonymous) @ www-embed-player.js:1260
+Promise.then (async)
+So @ www-embed-player.js:1260
+ur @ www-embed-player.js:1363
+wr @ www-embed-player.js:1354
+(anonymous) @ www-embed-player.js:1352
+Sd @ www-embed-player.js:323
+qr @ www-embed-player.js:1352
+c @ www-embed-player.js:1355
+(anonymous) @ www-embed-player.js:1357
+(anonymous) @ www-embed-player.js:846
+setTimeout (async)
+dl @ www-embed-player.js:869
+gm @ www-embed-player.js:939
+fm @ www-embed-player.js:934
+sr @ www-embed-player.js:1368
+tr @ www-embed-player.js:1357
+pr @ www-embed-player.js:1349
+kr @ www-embed-player.js:1346
+Dr @ www-embed-player.js:1375
+tm @ www-embed-player.js:1377
+Et.tick @ www-embed-player.js:1526
+Rt @ www-embed-player.js:1548
+(anonymous) @ www-embed-player.js:1560
+(anonymous) @ www-embed-player.js:846
+$t @ www-embed-player.js:1563
+(anonymous) @ www-embed-player.js:1825
+(anonymous) @ V2pdkeyMZFk:10
+01:33:58.623 www-embed-player.js:891 XHR finished loading: POST "https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8".
+nl @ www-embed-player.js:891
+kl @ www-embed-player.js:876
+Hp @ www-embed-player.js:1242
+(anonymous) @ www-embed-player.js:1151
+Ea @ www-embed-player.js:45
+Fa.next @ www-embed-player.js:46
+b @ www-embed-player.js:50
+Promise.then (async)
+f @ www-embed-player.js:52
+(anonymous) @ www-embed-player.js:53
+Ga @ www-embed-player.js:52
+A @ www-embed-player.js:54
+Xo @ www-embed-player.js:1150
+(anonymous) @ www-embed-player.js:1148
+Ea @ www-embed-player.js:45
+Fa.next @ www-embed-player.js:46
+b @ www-embed-player.js:50
+Promise.then (async)
+f @ www-embed-player.js:52
+(anonymous) @ www-embed-player.js:53
+Ga @ www-embed-player.js:52
+A @ www-embed-player.js:54
+(anonymous) @ www-embed-player.js:1148
+(anonymous) @ www-embed-player.js:846
+setTimeout (async)
+dl @ www-embed-player.js:869
+gm @ www-embed-player.js:939
+em.ka @ www-embed-player.js:935
+m.Rb @ www-embed-player.js:1148
+Vo @ www-embed-player.js:1138
+(anonymous) @ www-embed-player.js:1233
+Promise.then (async)
+Jp @ www-embed-player.js:1233
+(anonymous) @ www-embed-player.js:1248
+Ea @ www-embed-player.js:45
+Fa.next @ www-embed-player.js:46
+b @ www-embed-player.js:50
+Promise.then (async)
+f @ www-embed-player.js:52
+(anonymous) @ www-embed-player.js:53
+Ga @ www-embed-player.js:52
+A @ www-embed-player.js:54
+Op @ www-embed-player.js:1248
+(anonymous) @ www-embed-player.js:1828
+(anonymous) @ V2pdkeyMZFk:10
+01:34:02.510 www-embed-player.js:891 XHR finished loading: POST "https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8".
+nl @ www-embed-player.js:891
+kl @ www-embed-player.js:876
+Hp @ www-embed-player.js:1242
+m.sendAndWrite @ www-embed-player.js:1147
+Gp.sendAndWrite @ www-embed-player.js:1237
+e @ base.js:2287
+(anonymous) @ base.js:2295
+Promise.then (async)
+g.YD @ base.js:2295
+tqa @ base.js:2457
+wqa @ base.js:2448
+(anonymous) @ base.js:2445
+g.Nf @ base.js:413
+kG @ base.js:2445
+c @ base.js:2449
+(anonymous) @ base.js:2451
+(anonymous) @ base.js:1879
+setTimeout (async)
+g.rA @ base.js:1902
+YB @ base.js:2049
+rqa @ base.js:2473
+sqa @ base.js:2451
+mqa @ base.js:2441
+nqa @ base.js:2438
+sG @ base.js:2482
+g.jC @ base.js:2490
+(anonymous) @ base.js:2605
+setTimeout (async)
+b @ base.js:2605
+requestAnimationFrame (async)
+ssa @ base.js:2605
+jDa @ base.js:3775
+(anonymous) @ base.js:3766
+(anonymous) @ base.js:1879
+VP @ base.js:3766
+(anonymous) @ base.js:4431
+(anonymous) @ base.js:1879
+g.k.va @ base.js:8289
+bX.va @ base.js:11015
+g.k.va @ base.js:9893
+g.k.va @ base.js:10027
+L3a @ base.js:6402
+g.UZ @ base.js:6393
+g.UZ.create @ base.js:11779
+Bw.a.P @ www-embed-player.js:1781
+Bw @ www-embed-player.js:1782
+m.loadNewVideoConfig @ www-embed-player.js:1776
+(anonymous) @ www-embed-player.js:1774
+(anonymous) @ www-embed-player.js:846
+setTimeout (async)
+dl @ www-embed-player.js:869
+xw @ www-embed-player.js:1774
+Sw @ www-embed-player.js:1815
+(anonymous) @ www-embed-player.js:1826
+(anonymous) @ V2pdkeyMZFk:10
+01:34:09.227 www-embed-player.js:891 XHR finished loading: POST "https://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8".
+nl @ www-embed-player.js:891
+kl @ www-embed-player.js:876
+Hp @ www-embed-player.js:1242
+m.sendAndWrite @ www-embed-player.js:1147
+Gp.sendAndWrite @ www-embed-player.js:1237
+e @ www-embed-player.js:1252
+(anonymous) @ www-embed-player.js:1260
+Promise.then (async)
+So @ www-embed-player.js:1260
+ur @ www-embed-player.js:1363
+wr @ www-embed-player.js:1354
+(anonymous) @ www-embed-player.js:1352
+Sd @ www-embed-player.js:323
+qr @ www-embed-player.js:1352
+callback @ www-embed-player.js:1827
+(anonymous) @ www-embed-player.js:1319
+hm @ www-embed-player.js:936
+m.Je @ www-embed-player.js:1319
+(anonymous) @ www-embed-player.js:1318
+ov.s @ www-embed-player.js:1642
+m.transition @ www-embed-player.js:1315
+ov.m @ www-embed-player.js:1641
+m.transition @ www-embed-player.js:1315
+ov.ja @ www-embed-player.js:1640
+m.transition @ www-embed-player.js:1315
+(anonymous) @ www-embed-player.js:1639
+01:34:09.579 news:1     GET https://qa.test-sites.com.ua/news 404 (Not Found)
+01:34:09.606 Navigated to https://qa.test-sites.com.ua/news
+01:34:09.814 www.youtube.com/s/player/4eae42b1/www-embed-player.vflset/www-embed-player.js:846 [Violation] 'pagehide' handler took 239ms
+01:34:10.473 main.js:2 Uncaught TypeError: Failed to execute 'observe' on 'IntersectionObserver': parameter 1 is not of type 'Element'.
+    at HTMLDocument.<anonymous> (main.js:2:823302)
+(anonymous) @ main.js:2
+01:34:10.474 main.js:2 Uncaught TypeError: Cannot read properties of null (reading 'classList')
+    at HTMLDocument.<anonymous> (main.js:2:826625)
+(anonymous) @ main.js:2
